@@ -1,0 +1,1 @@
+If a missing Debug version of the lib file is found during compilation, and there is no source code in that directory, then the source code is in the corresponding third-party library directory under the UE source directory.

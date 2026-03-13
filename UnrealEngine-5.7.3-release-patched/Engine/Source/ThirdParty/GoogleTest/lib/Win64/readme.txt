@@ -1,0 +1,1 @@
+VS2015/Debug same VS2022/Debug
